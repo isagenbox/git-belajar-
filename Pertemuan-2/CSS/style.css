@@ -1,0 +1,26 @@
+h1{
+    font-size: 82px;
+    transition: 0.3s;
+    background-color: skyblue;
+}
+
+/* pseudo class */  
+/* pseudo class kelas semu yg bisa dijalanin jika kondisi tertentu */
+/* hover = perintah dijalankan jika ada objek dia */
+h1:hover{
+    /* jika disorot warna berubah gray */
+    color: lightblue;
+    font-size: 87px;
+    cursor: pointer;
+    /* cursor diubah jadi pointer, cursor akan berubah menjadi tangan */
+}
+
+/* aktif */
+.coba:active{
+    /* akan dijalankan jika di klik */
+    color: salmon;
+}
+
+.paraf {
+    text-align: right;
+}

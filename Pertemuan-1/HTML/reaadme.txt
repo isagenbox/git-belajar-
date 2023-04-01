@@ -1,0 +1,28 @@
+Belajar jadi 
+fullstack developer
+
+Software enginer:
+1. Frontend (client side) => Client / interaksi dengan user
+ - HTML, CSS, JAVASCRIPT
+ - Framework css = bootstrap
+ - React JS ( lebih enak) => react native (Mobile), 
+ Vue, angular
+ 
+
+2. Backend (server side)=> bagian server dan untuk mengelola data
+   - PHP, OOP, MVC, 
+   - MYSQL (Database)
+   - Laravel
+   
+3. Lainnya:
+   - Git dan Github
+   - Deployment 
+
+START :
+
+HTML    : Kerangka dari Web
+Code dalam html nanti kita sebut TAG
+<>...</>
+
+CSS     : Styling / Bentuk
+JS      : Otaknya bahasa Pemrograman

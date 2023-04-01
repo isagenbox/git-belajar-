@@ -1,0 +1,8 @@
+masukin ke git = 
+git init
+git add 
+git commit
+git remote add origin https: blablabla
+
+git push -u origin master
+
